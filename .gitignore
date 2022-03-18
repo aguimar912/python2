@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#ficheros de texto
+*.docs
+*.docx
+*.txt
+.vscode
